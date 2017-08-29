@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test file
 Updated #2!gg
+=======
+test file
+>>>>>>> parent of 466b533... update!
